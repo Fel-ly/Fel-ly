@@ -1,4 +1,4 @@
-Hi 👋 I'm Felistus
+# Hi 👋 I'm Felistus
 
 - 🔭 I’m currently working on a simple chat app.
 - 🌱 I’m learning java.
