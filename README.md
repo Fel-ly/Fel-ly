@@ -1,4 +1,6 @@
-# Hi 👋 I'm Felistus
+# Hello 👋
+
+Just a human greatly interested in software engineering. 
 
 - 🔭 I’m currently working on a simple chat app.
 - 🌱 I’m learning java.
