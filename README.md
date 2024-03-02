@@ -5,5 +5,3 @@ Just a human greatly interested in software engineering and looking to improve m
 - 🌱 I’m actively learning java.
 - 🔭 I’m currently working on a simple bank management system.
 - 👯 Looking to collaborate on any interesting tech projects, kinda biased towards software development though😄
-
-[![GitHub Streak](https://streak-stats.demolab.com/?Fel-ly=DenverCoder1&theme=dark)](https://git.io/streak-stats)
