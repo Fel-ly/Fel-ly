@@ -4,4 +4,4 @@ Just a human greatly interested in software engineering and looking to improve m
 
 - 🌱 I’m actively learning java
 - 🔭 Currently working on an online Banking Management System
-- 👯 Looking to collaborate on any interesting tech projects.
+- 👯 Open to collaborate on any interesting tech projects.
